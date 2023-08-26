@@ -9,3 +9,7 @@ The titanic survival prediction model is a powerful tool that uses machine learn
 
 The Iris flower dataset consists of three species: setosa, versicolor, and virginica. These species can be distinguished based on their measurements.Here we used machine learning concept to classify the Iris flowers from these measurements into their respective species.The dataset used is IRIS.csv
 
+
+#TASK4 : SALES PREDICTION USING PYTHON
+
+Sales prediction involves forecasting the amount of a product that customers will purchase, taking into account various factors such as advertising expenditure, target audience segmentation,and advertising platform selection.Advertising.csv file dataset is consider and logical regression technique is used.
